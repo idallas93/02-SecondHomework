@@ -1,0 +1,12 @@
+.navbar{
+    margin-bottom:0;
+    border-radius:50;
+}
+.navbar-brand{
+    background-color: aqua;
+    color: white;
+}
+
+a {
+    color: white;
+}
