@@ -1,12 +1,55 @@
-.navbar{
+/* .navbar{
     margin-bottom:0;
     border-radius:50;
 }
 .navbar-brand{
-    background-color: aqua;
+    background-color: lemonchiffon;
     color: white;
+}
+.navbar-right{
+    font-style: bold;
+} */
+body{
+    background-image: url("./Assets/Images/Web-Background.png");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.contactPageHeader{
+    background:lemonchiffon;
 }
 
-a {
-    color: white;
+a {color:#6C6C6C;}
+a:hover {color:#212121;}
+
+.container-contact{
+    background-color: white; 
+    width:50%;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-style: groove;
+    border-color: #F5F5F5;
+    border-width:4px;
+    padding-bottom:50px;
+
 }
+
+.buttonForm{
+    padding-top: 15px;
+}
+
+h2{
+    color:#6C6C6C;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkgray;
+  padding-top: 10px;
+  color: #6C6C6C;
+  text-align: center;}
+
+  .footerText{
+      padding: 5px;
+  }
