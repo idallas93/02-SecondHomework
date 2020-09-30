@@ -17,7 +17,7 @@ body{
 a {color:#6C6C6C;}
 a:hover {color:#212121;}
 
-.container-contact{
+.containerMaster{
     background-color: white; 
     width:50%;
     margin-top: 100px;
@@ -26,24 +26,12 @@ a:hover {color:#212121;}
     border-color: #F5F5F5;
     border-width:4px;
     padding-bottom:50px;
-
+    margin-bottom:75px;
 }
-
-.container-portfolio{
-    background-color: white; 
-    width:50%;
-    margin-top: 100px;
-    margin-left: 50px;
-    border-style: groove;
-    border-color: #F5F5F5;
-    border-width:4px;
-    padding-bottom:50px;
-}
-
 
 .buttonForm{
     padding-top: 15px;
-}
+} 
 
 h2{
     color:#6C6C6C;
