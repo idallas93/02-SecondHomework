@@ -13,9 +13,6 @@ body{
     background-image: url("./Assets/Images/Web-Background.png");
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.contactPageHeader{
-    background:lemonchiffon;
-}
 
 a {color:#6C6C6C;}
 a:hover {color:#212121;}
@@ -41,8 +38,6 @@ a:hover {color:#212121;}
     border-color: #F5F5F5;
     border-width:4px;
     padding-bottom:50px;
-    margin-bottom:100px;
-
 }
 
 
@@ -63,7 +58,7 @@ h2{
   padding-top: 10px;
   color: #6C6C6C;
   text-align: center;}
-  
+
 .pageHeader{
     padding-top:10px;
 }
