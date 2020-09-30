@@ -11,15 +11,27 @@
     <title>Hello, world!</title>
   </head>
   <body>    
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#F5F5F5">
+    <nav class="navbar navbar-expand-md navbar-light" style="background-color:#F5F5F5">
       <div class="container-fluid">
         <a class="navbar-brand" href="#" style="font-weight: bold; color: #6C6C6C">Isaac Dallas</a>
 
-        <ul class="nav navbar-right">
+        <ul class="nav navbar-right" class="collapse">
           <li class="mr-3"><a href="contact.html">Contact</a></li>
           <li class="mr-3"><a href="portfolio.html">Portfolio</a></li>
           <li class="mr-3"><a href="index.html">About</a></li>
         </ul>
+      </div>
+      <div class="m-x-auto">
+        <div class="collapse" id="navbarToggleExternalContent">
+          <div class="bg-light p-4">
+            <ul class="nav navbar">
+              <li class="mr-3"><a href="contact.html">Contact</a></li>
+              <li class="mr-3"><a href="portfolio.html">Portfolio</a></li>
+              <li class="mr-3"><a href="index.html">About</a></li>
+            </ul>
+          </div>
+        </div>
+        </nav>
       </div>
     </nav>
 
@@ -27,18 +39,18 @@
     </div>
     <div class="container-contact">
       <div class="row">
-        <div class="col-md-6 ml-5">
+        <div class="col-md-6 ml-5" >
           <h2 class="mt-5">Contact<hr></h2>
           <form>
-          <div class="form-group">
+          <div class="form-group row-auto">
             <label for="formGroupExampleInput">Name</label>
             <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name">
           </div>
-          <div class="form-group">
+          <div class="form-group row-auto">
             <label for="formGroupExampleInput">Email</label>
             <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Email">
           </div>
-          <div class="form-group">
+          <div class="form-group row-auto">
             <label for="exampleFormControlTextarea1">Message</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
           </div>

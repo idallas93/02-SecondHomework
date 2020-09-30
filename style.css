@@ -32,6 +32,20 @@ a:hover {color:#212121;}
 
 }
 
+.container-portfolio{
+    background-color: white; 
+    width:50%;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-style: groove;
+    border-color: #F5F5F5;
+    border-width:4px;
+    padding-bottom:50px;
+    margin-bottom:100px;
+
+}
+
+
 .buttonForm{
     padding-top: 15px;
 }
@@ -49,7 +63,11 @@ h2{
   padding-top: 10px;
   color: #6C6C6C;
   text-align: center;}
+  
+.pageHeader{
+    padding-top:10px;
+}
 
-  .footerText{
-      padding: 5px;
-  }
+.img-responsive{
+    margin:5px;
+}

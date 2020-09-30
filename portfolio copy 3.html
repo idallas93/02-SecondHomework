@@ -17,23 +17,27 @@
         <span class="navbar-toggler-icon"></span>
       </button>
     </nav>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8">
-          <div class="row">
-            <div class="col">
-              <h1>About Me</h1>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-lg-3">
-              <img class="stella" src="IMG_1907.jpg" width="150" height="150">
-            </div>
-            <div class="col-lg-9">
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia nihil, laudantium repellendus ipsum explicabo incidunt labore sed corporis quia accusamus velit, dolor reprehenderit sunt in? Impedit a veritatis deleniti exercitationem.</p>
-            </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-5">
+          <img class="img-responsive" src="IMG_1907.jpg" width="50%">
       </div>
-               
+      <div class="col-xs-12 col-sm-7">
+          <div class="row">
+              <div class="col-sm-6">
+                  <h2>{!!$blogPost->title!!}</h2>
+              </div>
+              <div class="col-sm-6">
+                  <h3 class="pull-right">
+                      {{$blogPost->created_at}}
+                  </h3>
+              </div>
+          </div> 
+      </div>
+      {!! Purifier::clean($blogPost->message) !!}
+      <div class="col-xs-12">
+          <hr />
+      </div>
+  </div>    
       </div>
     <div class="col-md-4">
       <div class="card" style="width: 18rem;">
