@@ -54,3 +54,13 @@ h2{
 .img-responsive{
     margin:5px;
 }
+.nav-link {
+    padding: 0px;
+    color:#6C6C6C;
+}
+.img-responsive{
+    border: solid;
+    border-width: 5px;
+    border-color: #6C6C6C;
+
+}
