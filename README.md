@@ -36,7 +36,7 @@ Here is the GitHub link to this project: https://idallas93.github.io/02-SecondHo
 
 * Must properly utilize Bootstrap components and grid system - uses bootstrap components and grid system
 
-Here are screenshots of the website 
+###Here are screenshots of the website
 
 **Contact Page Screenshot**
 ![about me page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomeworkContact.png?raw=true)
@@ -46,10 +46,4 @@ Here are screenshots of the website
 ![portfolio page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomworkPortfolio.png?raw=true)
 **Portfolio page with dropdown Screenshot**
 ![portfolio page with dropdown](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomeworkPortfolioSocialMedia.png?raw=true)
-
-
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site - added footer and columns/ sub columns/ rows and sub-rows
-
 
