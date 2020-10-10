@@ -39,7 +39,7 @@ Here is the GitHub link to this project: https://idallas93.github.io/02-SecondHo
 Here are screenshots of the website 
 
 Contact Page
-![contact page] (./Assets/Images/secondHomeworkContact.png)
+![about me page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomeworkContact.png?raw=true)
 About Me Page
 ![about me page](https://octodex.github.com/images/yaktocat.png)
 Porfolio Page
