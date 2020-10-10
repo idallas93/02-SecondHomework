@@ -1,6 +1,8 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-* I created the follwing files: `index.html`, `portfolio.html` and `contact.html`.
+* I created the following files: `index.html`, `portfolio.html` and `contact.html`.
+
+Here is the GitHub link to this project: https://idallas93.github.io/02-SecondHomework/index.html#
 
 * Using bootstrap I added the following elementes to my website:
 
@@ -33,6 +35,17 @@
 * Must contain your personalized information. (bio, name, images, links to social media, etc.) - contains my name, standard lorem ipsum text, and pictures of my dog stella.
 
 * Must properly utilize Bootstrap components and grid system - uses bootstrap components and grid system
+
+Here are screenshots of the website 
+
+Contact Page
+![contact page] (./Assets/Images/secondHomeworkContact.png)
+About Me Page
+![about me page](https://octodex.github.com/images/yaktocat.png)
+Porfolio Page
+![portfolio page](https://octodex.github.com/images/yaktocat.png)
+Portfolio page with dropdown
+![portfolio page with dropdown](https://octodex.github.com/images/yaktocat.png)
 
 
 ### Bonus
