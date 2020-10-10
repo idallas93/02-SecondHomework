@@ -36,7 +36,7 @@ Here is the GitHub link to this project: https://idallas93.github.io/02-SecondHo
 
 * Must properly utilize Bootstrap components and grid system - uses bootstrap components and grid system
 
-###Here are screenshots of the website
+### Here are screenshots of the website
 
 **Contact Page Screenshot**
 ![about me page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomeworkContact.png?raw=true)
