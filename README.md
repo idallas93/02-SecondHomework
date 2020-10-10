@@ -38,14 +38,14 @@ Here is the GitHub link to this project: https://idallas93.github.io/02-SecondHo
 
 Here are screenshots of the website 
 
-Contact Page
+**Contact Page Screenshot**
 ![about me page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomeworkContact.png?raw=true)
-About Me Page
-![about me page](https://octodex.github.com/images/yaktocat.png)
-Porfolio Page
-![portfolio page](https://octodex.github.com/images/yaktocat.png)
-Portfolio page with dropdown
-![portfolio page with dropdown](https://octodex.github.com/images/yaktocat.png)
+**About Me Page Screenshot**
+![about me page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/SecondHomeworkAboutMe.png?raw=true)
+**Porfolio Page Screenshot**
+![portfolio page](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomworkPortfolio.png?raw=true)
+**Portfolio page with dropdown Screenshot**
+![portfolio page with dropdown](https://github.com/idallas93/02-SecondHomework/blob/master/Assets/Images/secondHomeworkPortfolioSocialMedia.png?raw=true)
 
 
 ### Bonus
