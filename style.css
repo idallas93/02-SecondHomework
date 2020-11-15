@@ -68,3 +68,12 @@ h2{
 #third-div{
     max-width: 34%;
 }
+
+#myVideo {
+    border: solid;
+    border-width: 5px;
+    border-color: #6C6C6C;
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+  }
